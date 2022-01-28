@@ -1,3 +1,4 @@
+ touch nazwapliku.txt - dodanie pliku
  git status - sprawdzanie ststusu plików
  git add "nazwapliku.txt"- dodanie pliku do brunch (gałęzi)
  git A dodanie wszystkich pliku do brunch (gałęzi)
@@ -5,4 +6,6 @@
  git commit -am"dodaje plik nazwapliku.txt" - wszystkich
  git log - sprawdzanie ststusu przesyłania plików
  git brunch - sprawdzanie na jakim brunch jesteśmy 
- 
+ git checkout -b"logowanie" - dodanie nowego brancha
+
+
